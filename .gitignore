@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio
+LinqSamples.v11.suo
+LinqSamples.ToObject/bin
+LinqSamples.ToObject/obj
